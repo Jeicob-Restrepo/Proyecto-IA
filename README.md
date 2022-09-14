@@ -11,7 +11,7 @@ Este proyecto utiliza un dataset de texto, para clasificar el estado de la leche
 
 ### Dataset
 * 1059 registros de texto, 8 columnas. Este conjunto de datos consta de 7 variables independientes, es decir, pH, temperatura, sabor, olor, grasa, turbidez y color.
-Generalmente, el Grado o Calidad de la leche depende de estos parámetros.Estos parámetros juegan un papel vital en el análisis predictivo de la leche.
+Generalmente, el Grado o Calidad de la leche depende de estos parámetros. Estos parámetros juegan un papel vital en el análisis predictivo de la leche.
 * <a href="https://www.kaggle.com/datasets/cpluzshrijayan/milkquality" target="_blank">Enlace al dataset</a>
 
 ### Modelos
