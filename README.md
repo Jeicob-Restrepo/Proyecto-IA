@@ -21,4 +21,4 @@ Generalmente, el Grado o Calidad de la leche depende de estos parámetros. Estos
 * SupportVector Machine
 * Redes neuronales
 
-* <a href="https://github.com/Jeicob-Restrepo/Proyecto-IA/blob/main/Clasificador_del_estado_de_la_leche_final.ipynb" target="_blank">(code)</a> <a href="https://www.youtube.com/watch?v=2SXmmHIyPjA" target="_blank">(video)</a> <a href="https://www.kaggle.com/datasets/cpluzshrijayan/milkquality" target="_blank">(repositorio)</a>
+* <a href="https://github.com/Jeicob-Restrepo/Proyecto-IA/blob/main/Clasificador_del_estado_de_la_leche_final.ipynb" target="_blank">(code)</a> <a href="https://www.youtube.com/watch?v=2SXmmHIyPjA" target="_blank">(video)</a> <a href="https://github.com/Jeicob-Restrepo/Proyecto-IA" target="_blank">(repositorio)</a>
