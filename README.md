@@ -5,7 +5,6 @@
 
 ### Descripción
 Este proyecto utiliza un dataset de texto, para clasificar el estado de la leche.
-* <a href="https://www.youtube.com/watch?v=2SXmmHIyPjA" target="_blank">Enlace al video</a>
 
 ### Objetivos
 * Predecir el grado de calidad que tiene la leche
@@ -21,3 +20,5 @@ Generalmente, el Grado o Calidad de la leche depende de estos parámetros. Estos
 * Random Forest Classifier
 * SupportVector Machine
 * Redes neuronales
+
+* <a href="https://github.com/Jeicob-Restrepo/Proyecto-IA/blob/main/Clasificador_del_estado_de_la_leche_final.ipynb" target="_blank">(code)</a> <a href="https://www.youtube.com/watch?v=2SXmmHIyPjA" target="_blank">(video)</a> <a href="https://www.kaggle.com/datasets/cpluzshrijayan/milkquality" target="_blank">(repositorio)</a>
