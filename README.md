@@ -2,6 +2,7 @@
 ![image](https://user-images.githubusercontent.com/82180254/190060896-eb6e554d-5ebb-41fd-a580-f5febe27bc1c.jpeg)
 ### Integrantes
 * Yaire Catalina López Santana, Jeicob Gilmar Restrepo Gómez
+* <a href="https://www.youtube.com/watch?v=2SXmmHIyPjA" target="_blank">Enlace al video</a>
 
 ### Descripción
 Este proyecto utiliza un dataset de texto, para clasificar el estado de la leche.
